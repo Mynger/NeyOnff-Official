@@ -1,0 +1,164 @@
+body{
+    background-color: white;
+    background-image: url(Images/Символіка.png);
+    background-repeat: repeat-x repeat-y;
+    background-size: 14%;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+#A{
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    padding: 4px;
+    border-radius: 60px;
+    
+}
+h1{
+    font-family: 'Engravers MT', Times, serif;
+    padding: 5px;
+}
+#A1{
+    border-bottom: 2px dashed gainsboro;
+    padding-bottom: 25px;
+}
+#B{
+    width: 40%;
+    background-color: white;
+    border: 2px solid gainsboro;
+}
+ol{
+    list-style: none;
+    counter-reset: li;
+}
+#C{
+    position: absolute;
+    right: 150px;
+    border: 2px solid gainsboro;
+    background-color: white;
+}
+#D{
+    border: 2px solid gainsboro;
+    background-color: white;
+    width: 70%;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#E{
+    border-bottom: 2px solid gainsboro;
+    padding-bottom: 25px;
+    text-align: center;
+}
+#F{
+    border-bottom: 2px dashed gainsboro;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#G{
+    border-top: 2px solid gainsboro;
+    border-bottom: 2px dashed gainsboro;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#H{
+    border-top: 2px solid gainsboro;
+    border-bottom: 2px dashed gainsboro;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid gainsboro;
+    text-align: center;
+}
+td{
+    border: 1px solid gainsboro;
+    text-align: center;
+}
+#J{
+    border: 2px solid gainsboro;
+    background-color: white;
+    width: 70%;
+}
+#K{
+    border-bottom: 2px solid gainsboro;
+    padding-bottom: 25px;
+    text-align: center;
+}
+#L{
+    border-bottom: 2px dashed gainsboro;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#M{
+    border-top: 2px solid gainsboro;
+    border-bottom: 2px dashed gainsboro;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#N{
+    position: relative;
+    top: -330px;
+    right: -310px;
+}
+#O{
+    position: relative;
+    top: -330px;
+    right: -310px;
+}
+#P{
+    position: relative;
+    top: -330px;
+    right: -310px;
+}
+#Q{
+    position: relative;
+    top: -330px;
+    right: -310px;
+}
+#R{
+    position: relative;
+    top: -330px;
+    right: -310px;
+}
+#S{
+    border: 2px solid gainsboro;
+    background-color: white;
+    width: 70%;
+}
+#T{
+    border-bottom: 2px solid gainsboro;
+    padding-bottom: 25px;
+    text-align: center;
+}
+#U{
+    border-bottom: 2px dashed gainsboro;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#W{
+    border-bottom: 2px dashed gainsboro;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#X{
+    border-top: 2px solid gainsboro;
+    border-bottom: 2px dashed gainsboro;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#Y{
+    border-top: 2px solid gainsboro;
+    border-bottom: 2px dashed gainsboro;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
